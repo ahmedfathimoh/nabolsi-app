@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785723339850",
+    "project_id": "chat-db-c6c02",
+    "storage_bucket": "chat-db-c6c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785723339850:android:af1569b12f69acb4e0a2b3",
+        "android_client_info": {
+          "package_name": "com.example.nabulsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785723339850-7qgc9pp4b7g8lovslplovu2nhh117bcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nabulsi_app",
+            "certificate_hash": "991437894d0773bae7feef5c9ce0459890b340c0"
+          }
+        },
+        {
+          "client_id": "785723339850-iaeidlsgv8hm0bapnjcoq36hmfslfj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvXLh3RBRqDF-Ec4CJX1R_DGifsq567Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785723339850-iaeidlsgv8hm0bapnjcoq36hmfslfj5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
